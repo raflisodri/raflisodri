@@ -1,5 +1,8 @@
 ### Hi there 👋
 My Name Is Rafli Sodri
+- 🌱 I’m currently learning in Marhas vocational school
+- 👯 I’m looking to collaborate on MATA(marhas technology association)
+- ⚡ Fun fact: -
 <!--
 **raflisodri/raflisodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
